@@ -1,0 +1,44 @@
+boby{
+    margin: 0%;
+    padding:0%
+}
+.run{
+    width: auto;
+    height: 100px;
+    background-color: aqua;
+
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    font-size: 20px;
+}
+.one{
+    width: auto;
+    height: 500px;
+    background-color: blueviolet;
+    text-align: center;
+    font-size: 50px;
+}
+.two{
+    width: auto;
+    height: 300px;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 50px;
+}
+.three{
+    width: auto;
+    height: 400px;
+    background-color: rgb(139, 23, 23);
+    text-align: center;
+    font-size: 50px;
+}
+.four{
+    width: auto;
+    height: 200px;
+    background-color: rgb(67, 23, 139);
+    text-align: center;
+    font-size: 50px;
+}
